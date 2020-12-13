@@ -1,1 +1,1 @@
-docke build -t myflaskapp2
+docker build -t myflaskapp2

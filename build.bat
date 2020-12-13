@@ -1,1 +1,1 @@
-docker build -t myflaskapp2 .
+docker-compose build
